@@ -1,0 +1,32 @@
+@media only screen and (max-width: 600px) {
+    .section-one {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .div-text {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+        padding: 10%;
+        text-align: justify;
+    }
+
+    .div-image {
+        height: 100%;
+        width: 100%;
+    }
+
+    .image {
+        height: 100%;
+        width: 100%;
+    }
+
+    .section-two {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
