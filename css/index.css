@@ -47,25 +47,3 @@
     min-width: 300px;
     transition: .3s;
 }
-
-@media only screen and (max-width: 600px) {
-    .main-image {
-        display: none;
-        transition: 0.2s;
-    }
-}
-
-@media only screen and (max-width: 750px) {
-    .man {
-        height: 50%;
-        transition: .2s;
-    }
-}
-
-
-@media only screen and (max-width: 250px) {
-    .form a {
-        color: aliceblue;
-        font-size: 0.6em;
-    }
-}

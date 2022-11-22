@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px) {
+    .main-image {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 750px){
+    .man {
+        height: 55%;
+        transition: 0.2s;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    .form a {
+        font-size: 0.7em;
+    }
+}
